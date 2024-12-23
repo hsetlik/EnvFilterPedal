@@ -1,0 +1,9 @@
+gerber*
+EnvFilterPedal-backups
+*.zip
+Simulations/*.raw
+Simulations/*.log
+Simulations/*.net
+Panel
+fp-info-cache
+
