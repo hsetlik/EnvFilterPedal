@@ -14727,7 +14727,7 @@
 		(fields_autoplaced yes)
 		(uuid "72c4fd72-ab79-4cb6-84ed-f37874ae8d45")
 		(property "Reference" "R110"
-			(at 200.914 42.9259 0)
+			(at 200.66 42.9259 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14735,8 +14735,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15k"
-			(at 200.914 45.4659 0)
+		(property "Value" "6k8"
+			(at 200.66 45.4659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17019,15 +17019,15 @@
 		(fields_autoplaced yes)
 		(uuid "ad10078e-1a85-4b62-8298-4e234fea4cbe")
 		(property "Reference" "C119"
-			(at 102.616 242.824 90)
+			(at 102.616 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1u"
-			(at 102.616 245.364 90)
+		(property "Value" "470n"
+			(at 102.616 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17575,7 +17575,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "22k"
 			(at 68.326 44.45 90)
 			(effects
 				(font
@@ -18968,7 +18968,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "470n"
 			(at 170.434 144.78 90)
 			(effects
 				(font
@@ -19029,7 +19029,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4e216dc-5851-4540-ae5f-5abcff378e04")
 		(property "Reference" "R111"
-			(at 200.914 61.2139 0)
+			(at 200.66 61.2139 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19037,8 +19037,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15k"
-			(at 200.914 63.7539 0)
+		(property "Value" "6k8"
+			(at 200.66 63.7539 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19664,7 +19664,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "470n"
 			(at 100.584 144.78 90)
 			(effects
 				(font
@@ -20498,15 +20498,15 @@
 		(fields_autoplaced yes)
 		(uuid "ed679ca8-5f46-4025-9411-cda84b534991")
 		(property "Reference" "R130"
-			(at 163.576 180.848 90)
+			(at 163.576 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "4k7"
-			(at 163.576 183.388 90)
+		(property "Value" "1k8"
+			(at 163.576 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21567,15 +21567,15 @@
 		(fields_autoplaced yes)
 		(uuid "ff7bb21f-1047-4415-a688-61745802e410")
 		(property "Reference" "C120"
-			(at 165.862 242.824 90)
+			(at 165.862 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1u"
-			(at 165.862 245.364 90)
+		(property "Value" "470n"
+			(at 165.862 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
