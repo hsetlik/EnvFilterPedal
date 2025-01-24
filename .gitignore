@@ -4,6 +4,6 @@ EnvFilterPedal-backups
 Simulations/*.raw
 Simulations/*.log
 Simulations/*.net
-Panel
+Enclosure/*.ai
 fp-info-cache
 
