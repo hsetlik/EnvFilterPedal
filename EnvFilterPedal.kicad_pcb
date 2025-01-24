@@ -1792,7 +1792,7 @@
 		(descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
 		(tags "test point THT pad")
 		(property "Reference" "TP112"
-			(at 0 -1.648 360)
+			(at 0 -1.648 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "7978df89-1b0c-4441-b834-f3608b112e7b")
@@ -1804,7 +1804,7 @@
 			)
 		)
 		(property "Value" "LP2"
-			(at 0 2.000001 360)
+			(at 0 2.000001 0)
 			(layer "F.SilkS")
 			(uuid "ef93a035-dec1-47d0-b842-4c12ffd4010e")
 			(effects
@@ -1894,7 +1894,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.Fab")
 			(uuid "12d866e2-30f0-403c-aa88-7d7ab2b50489")
 			(effects
