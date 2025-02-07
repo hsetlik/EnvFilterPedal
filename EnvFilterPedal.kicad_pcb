@@ -12630,7 +12630,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "33n"
 			(at 0 -1.679999 90)
 			(layer "B.Fab")
 			(uuid "d9390e2b-2ec2-48b5-b6e4-f36fae994e13")
@@ -12849,7 +12849,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k8"
+		(property "Value" "6k8"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "a980bae3-a6d5-4c76-adfd-8243843927a7")
@@ -13287,7 +13287,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "6k8"
+		(property "Value" "12k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "f699c1bd-af76-472f-9404-e418ce3dbea4")
@@ -17366,7 +17366,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "6k8"
+		(property "Value" "5k6"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "bf3365bc-3580-4ff0-a5c5-8fb6e8c47b2f")
@@ -24830,7 +24830,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/94c67969-a3bc-49d9-ad73-dfa42b41e203")
+		(path "/9ef2e9ce-8a44-4158-9b36-a128abbc732e")
 		(sheetname "Root")
 		(sheetfile "EnvFilterPedal.kicad_sch")
 		(attr smd)
@@ -25592,7 +25592,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "6k8"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "652c0a35-da60-4095-95d9-72ee47b64dbb")
@@ -29455,7 +29455,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k8"
+		(property "Value" "2k2"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "bfb18fc3-b763-4065-b713-3d2e134e1c44")
