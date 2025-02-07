@@ -11950,7 +11950,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6k8"
+		(property "Value" "12k"
 			(at 355.6 234.1879 0)
 			(effects
 				(font
@@ -15046,7 +15046,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k6"
+		(property "Value" "5k1"
 			(at 127 94.7419 0)
 			(effects
 				(font
@@ -19721,7 +19721,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12k"
+		(property "Value" "10k"
 			(at 203.2 64.7699 0)
 			(effects
 				(font
