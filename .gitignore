@@ -7,4 +7,6 @@ Simulations/*.net
 Enclosure/*.ai
 Datasheets
 fp-info-cache
+.history
+*/.history
 
